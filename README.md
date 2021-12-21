@@ -1,3 +1,12 @@
+# Enlazando componentes (Módulo 9)
+## Práctica integradora / Digital House
+
+<a href="https://github.com/YonPalac1/enlazando_componentes-M9/blob/master/public/M09C04%20-%20Ejercitaci%C3%B3n%20-%20Enlazando%20los%20componentes%20de%20la%20aplicaci%C3%B3n.pdf">Ver PDF del proyecto</a>
+<br>
+<img src="https://github.com/YonPalac1/enlazando_componentes-M9/blob/master/public/img1.png">
+<img src="https://github.com/YonPalac1/enlazando_componentes-M9/blob/master/public/img2.png">
+
+<hr>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
