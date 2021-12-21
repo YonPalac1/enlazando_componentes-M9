@@ -35,21 +35,21 @@ function SideBar(){
                 <li className="nav-item">
                 <Link className="nav-link" to="/GenresInDb">
                         <i className="fas fa-fw fa-folder"></i>
-                        <span>Pages</span>
+                        <span>Generos en BD</span>
                     </Link>
                 </li>
 
                 <li className="nav-item">
                     <Link className="nav-link" to="/LastMovieInDb">
                         <i className="fas fa-fw fa-chart-area"></i>
-                        <span>Charts</span>
+                        <span>Última película en BD</span>
                     </Link>
                 </li>
 
                 <li className="nav-item nav-link">
                 <Link className="nav-link" to="/ContentRowMovies">
                         <i className="fas fa-fw fa-table"></i>
-                        <span>Tables</span></Link>
+                        <span>Tarjetas</span></Link>
                 </li>
                 <hr className="sidebar-divider d-none d-md-block"/>
             </ul>
